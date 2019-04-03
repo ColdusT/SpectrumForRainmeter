@@ -77,7 +77,7 @@ Group1Launcher2Name=Blender
 Group1Launcher2Icon=_c_blender.png
 Group1Launcher2BG=056
 
-Group1Launcher3Action=["C:\Program Files\Adobe\Adobe Photoshop CS6 (64 Bit)\Photoshop.exe"]
+Group1Launcher3Action=["C:\Program Files\Adobe\Adobe Photoshop CC 2019\Photoshop.exe"]
 Group1Launcher3Name=Photoshop
 Group1Launcher3Icon=_c_photoshop.png
 Group1Launcher3BG=021
@@ -107,7 +107,7 @@ Group2BarIcon=arc.png
 
 ;Launcher settings: action, name, icon and mouseover background
 
-Group2Launcher1Action=["C:\Program Files\Adobe\Adobe After Effects CS6\Support Files\AfterFX.exe"]
+Group2Launcher1Action=["C:\Program Files\Adobe\Adobe After Effects CC 2019\Support Files\AfterFX.exe"]
 Group2Launcher1Name=After Effects
 Group2Launcher1Icon=_c_aftereffects.png
 Group2Launcher1BG=093
