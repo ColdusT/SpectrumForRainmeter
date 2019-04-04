@@ -28,7 +28,7 @@ BarGradient=180 | 0,178,255,255 ; 0.0 | 139,22,255,255 ; 0.5 | 255,51,51,255 ; 1
 ;General settings
 
 ;This value controls the speed of the skin active/deactive animation. The lower the value the faster the speed.
-AnimationFactor=16
+AnimationFactor=8
 
 ;This controls if battery is displayed across the skins. 0 to display and 1 to hide them.
 ShowBattery=1
@@ -67,14 +67,14 @@ Group1BarIcon=hexagons.png
 
 ;Launcher settings: action, name, icon and mouseover background
 
-Group1Launcher1Action=["C:\Program Files\Unity\Editor\Unity.exe"]
-Group1Launcher1Name=Unity
-Group1Launcher1Icon=_d_unity.png
+Group1Launcher1Action=["D:\Program Files\TeamSpeak 3 Client\ts3client_win64.exe"]
+Group1Launcher1Name=TeamSpeak
+Group1Launcher1Icon=teamspeak3.png
 Group1Launcher1BG=012
 
-Group1Launcher2Action=["C:\Program Files\Blender Foundation\Blender\blender.exe"]
-Group1Launcher2Name=Blender
-Group1Launcher2Icon=_c_blender.png
+Group1Launcher2Action=["C:\Program Files (x86)\Steam\Steam.exe"]
+Group1Launcher2Name=Steam
+Group1Launcher2Icon=_G_Steam.png
 Group1Launcher2BG=056
 
 Group1Launcher3Action=["C:\Program Files\Adobe\Adobe Photoshop CC 2019\Photoshop.exe"]
@@ -82,19 +82,19 @@ Group1Launcher3Name=Photoshop
 Group1Launcher3Icon=_c_photoshop.png
 Group1Launcher3BG=021
 
-Group1Launcher4Action=["C:\Program Files\Adobe\Adobe Illustrator CS6 (64 Bit)\Support Files\Contents\Windows\Illustrator.exe"]
-Group1Launcher4Name=Illustrator
-Group1Launcher4Icon=_c_illustrator.png
+Group1Launcher4Action=["C:\Program Files (x86)\Origin\origin.exe"]
+Group1Launcher4Name=Origin
+Group1Launcher4Icon=_G_Origin.png
 Group1Launcher4BG=047
 
-Group1Launcher5Action=["C:\Users\Tack\Documents\PaintTool SAI English Pack\sai.exe"]
-Group1Launcher5Name=Paint Tool SAI
-Group1Launcher5Icon=_c_painttoolsai.png
+Group1Launcher5Action=["C:\Gadgets\SS\shadowsocks.exe"]
+Group1Launcher5Name=Shadowsocks
+Group1Launcher5Icon=shadowsocks.png
 Group1Launcher5BG=106
 
-Group1Launcher6Action=["C:\Program Files\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\CILPStudio.exe"]
-Group1Launcher6Name=Clip Studio Paint
-Group1Launcher6Icon=_c_clipstudiopaint.png
+Group1Launcher6Action=["C:\Program Files\Microsoft VS Code\code.exe"]
+Group1Launcher6Name=VS Code
+Group1Launcher6Icon=VSCode.png
 Group1Launcher6BG=102
 
 ;=========================================================================================================================
@@ -112,13 +112,13 @@ Group2Launcher1Name=After Effects
 Group2Launcher1Icon=_c_aftereffects.png
 Group2Launcher1BG=093
 
-Group2Launcher2Action=["C:\Program Files\Adobe\Adobe Premiere Pro CS6\Adobe Premiere Pro.exe"]
+Group2Launcher2Action=["C:\Program Files\Adobe\Adobe Premiere Pro CC 2019\Adobe Premiere Pro.exe"]
 Group2Launcher2Name=Premiere
 Group2Launcher2Icon=_c_premiere.png
 Group2Launcher2BG=027
 
-Group2Launcher3Action=["C:\Users\Tack\AppData\Local\GitHubDesktop\GitHubDesktop.exe"]
-Group2Launcher3Name=Github Desktop
+Group2Launcher3Action=["https://github.com/"]
+Group2Launcher3Name=Github
 Group2Launcher3Icon=_d_github.png
 Group2Launcher3BG=055
 
